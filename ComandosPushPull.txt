@@ -1,0 +1,2 @@
+push: significa empurrar, corresponde ai ato de enviar o repositório local para um repositório remoto.
+pull: significa puxar, correspondente ao ato contrário, pegar uma versão do repositório remoto para o local.
